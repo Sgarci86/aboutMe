@@ -3,3 +3,7 @@
 .Rdata
 .httr-oauth
 .DS_Store
+
+
+# add file so that it doesn't get pushed to the remote repo (on GitHub);
+contains_sensitive_info.R
